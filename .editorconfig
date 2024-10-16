@@ -1,0 +1,16 @@
+﻿root = true
+
+# All files
+[*]
+indent_style = tab
+
+# 缩进大小
+tab_width = 4
+
+# 文件编码格式
+charset = utf-8-bom
+
+# 文件结尾添加换行符，以防警告
+insert_final_newline = true
+
+end_of_line = crlf
